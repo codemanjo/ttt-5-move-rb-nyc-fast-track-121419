@@ -11,5 +11,7 @@ end
 
 def input_to_index(move)         # code your input_to_index and move method here!
   move.to_i - 1
+end
 
+def move
 end
