@@ -1,11 +1,1 @@
-def potato_family?(array)
-  index = 0
-  while index < array.lenght
-    if array[index] == "potato" || array[index].downcase == "yam" || array[index]== "sweet Potato"
-      puts "yes, it belongs to potato"
-    else
-      puts "Yes it belongs to potato"
-    end
-      i+=1
-    end
-  end
+
